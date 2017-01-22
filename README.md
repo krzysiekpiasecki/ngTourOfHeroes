@@ -13,7 +13,7 @@ __[Run the live example](https://ng-tour-of-heroes.herokuapp.com)__
 <a href="https://ng-tour-of-heroes.herokuapp.com/dashboard"><img alt="Live preview" src="https://github.com/krzysiekpiasecki/ngTourOfHeroes/blob/master/src/assets/img/preview.png" /></a>
 
 <br>
-<a href="http://www.freepik.com">Designed by Freepik</a>
+<a href="http://www.freepik.com">Heroes designed by Freepik</a>
 
 ### Quick start
 
