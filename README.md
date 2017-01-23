@@ -1,7 +1,7 @@
 # ngTourOfHeroes
 
 
-Angular 2 app to help a staffing agency manage its stable of heroes. 
+Angular app to help a staffing agency manage its stable of heroes. 
 
 
 <br>
